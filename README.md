@@ -4,6 +4,10 @@ A free minimal clean HTML template
 
 This Template created with [Temply] by [Sweefty.com].
 
+# Demo
+
+[Bread Demo](http://sweefty.com/templates/bread)
+
 ### Tech
 
 Bread template uses:
@@ -71,10 +75,6 @@ $ temply watch
 ```
 
 - You can define handlebars helpers and partials from init.js file, but avoid declaring ``config`` and ``wrapper`` helpers as they are used internally by [Temply].
-
-### Customization
-
-We can customize this template for you with your own logo/colors/identity plus some extra pages at a very low price, please check our [customization service](http://sweefty.com/templates/customize).
 
 License
 ----
