@@ -1,15 +1,13 @@
 
-exports.outLocation = '';
+//exports.outLocation = '';
 
-//handlebars partials
-exports.partials = {};
+//handlebars object
+exports.handlebars = function(Handlebars){
 
-//handlebars helpers
-exports.helpers = {
-    test : function(arg1){}
 };
 
-//handlebars data
+
+//global data
 exports.data = {
     "javascript" : [],
     
